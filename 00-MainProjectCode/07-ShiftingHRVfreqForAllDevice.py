@@ -7,7 +7,7 @@ import neurokit2 as nk
 import os
 import warnings
 
-# สวัสดี ทดลอง github
+# สวัสดี ทดลอง github จ้าา
 
 def ProcessingHrvFreq(ppg_df, window_size, sampling_rate):
     # จำนวนขนาดเวลา(วินาที) ที่ขยับ shift เพื่อคำนวณค่า hrv freq ต่าง ๆ
