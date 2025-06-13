@@ -235,3 +235,6 @@ plt.show()
 
 #test by lerritx
 #sdfsdfsdfsdf sdfsdfdsfdsfdsfdsf
+
+
+#testnajaaaaaaaaaaaaa
